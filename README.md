@@ -14,12 +14,13 @@ Here are the optional requirements.
 #### Linux (Best Choice)
 ##### You must have root access.
 1. Open your Terminal Emulator
-2. Type this
+2. Type this on Ubuntu
 ````
 # apt-get install ruby
 ````
-or
-````
-# yum install ruby
-````
+or install `ruby` with your favorite package manager.
+
 3. To test, type `ruby -v` in your Terminal
+
+#### Windows and Mac OS X
+You will need to consult the Ruby website.
