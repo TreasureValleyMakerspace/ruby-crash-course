@@ -8,7 +8,7 @@ Here are the requirements for this course.
 - Atom editor or VS Code
 
 Here are the optional requirements.
-- Rasberry Pi or laptop with Ubuntu (or Linux)
+- Rasberry Pi (Raspbian prefered) or laptop with Ubuntu (or Linux)
 
 ## Get Started
 #### Linux (Best Choice)
@@ -24,3 +24,5 @@ or install `ruby` with your favorite package manager.
 
 #### Windows and Mac OS X
 You will need to consult the Ruby website.
+
+__All__ lessons are now on the Wiki.
