@@ -1,6 +1,8 @@
 # ruby-crash-course
 This is a Ruby Programming Language course designed for the Treasure Valley Makerspace.
 
+__All__ lessons are now on the Wiki.
+
 ## Requirements
 Here are the requirements for this course.
 - laptop
@@ -24,5 +26,3 @@ or install `ruby` with your favorite package manager.
 
 #### Windows and Mac OS X
 You will need to consult the Ruby website.
-
-__All__ lessons are now on the Wiki.
