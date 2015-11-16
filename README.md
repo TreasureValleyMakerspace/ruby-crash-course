@@ -2,6 +2,7 @@
 This is a Ruby Programming Language course designed for the Treasure Valley Makerspace.
 
 __All__ lessons are now on the Wiki.
+If you have suggestions for Lesson 1, please branch off using `git branch` or Github.
 
 ## Requirements
 Here are the requirements for this course.
